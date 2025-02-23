@@ -29,6 +29,7 @@ The 7-bit programmable CPU architecture includes:
 3. Launch Logisim and Open the file: **_Logisim/Project.circ_**
 
 4. Set a Starting Address in Hex of an Existing Program (Check the file **_Program-Examples.xlsx_**)
+
     ![](images/set-starting-addr.png)
 
 5. Click the **RUN** Button.
@@ -49,10 +50,10 @@ You can find:
 
 ## Contributors
 
-1.	Fahrel Azki Hidayat 
-2.	Syed Muhammad Hamza Iqbal 
-3.	Khalid Haji
-4.	Mohammed Mansib Shahriyar Alam
+-	Fahrel Azki Hidayat
+-	Syed Muhammad Hamza Iqbal 
+-	Khalid Haji
+- Mohammed Mansib Shahriyar Alam
 
 
 
