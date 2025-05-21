@@ -53,7 +53,9 @@ You can find:
 -	Fahrel Azki Hidayat
 -	Syed Muhammad Hamza Iqbal 
 -	Khalid Haji
-- Mohammed Mansib Shahriyar Alam
+-   Mohammed Mansib Shahriyar Alam
 
+## 📝 License
 
+This project is licensed under the [MIT License](LICENSE).  
 
