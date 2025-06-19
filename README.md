@@ -55,7 +55,3 @@ You can find:
 -	Khalid Haji
 -   Mohammed Mansib Shahriyar Alam
 
-## 📝 License
-
-This project is licensed under the [MIT License](LICENSE).  
-
